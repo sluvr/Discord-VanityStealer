@@ -1,5 +1,5 @@
-gid2 = input("[ ? ] GuildID To Put Stolen Vanity On -> ")
-#bottkn = input("[ ? ] Your Bot's Token -> ")
+gid2 = input("[ ? ] 1102139460239507556 ")
+#bottkn = input("[ ? ] MTI3NDAxODY0NTU5MjUxMDUwNg.GymFc4.R2UZS1EJAQv0hPBsMQiZZMiuPCRZI9FbTfMjO0> ")
 
 import discord, httpx
 from discord.ext import commands
